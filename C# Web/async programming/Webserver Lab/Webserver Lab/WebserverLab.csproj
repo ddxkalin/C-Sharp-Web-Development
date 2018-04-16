@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Applications\**" />
+    <Compile Remove="NewFolder - Copy %2810%29\**" />
+    <Compile Remove="NewFolder - Copy %2811%29\**" />
+    <Compile Remove="NewFolder - Copy %282%29\**" />
+    <Compile Remove="NewFolder - Copy %283%29\**" />
+    <Compile Remove="NewFolder - Copy %284%29\**" />
+    <Compile Remove="NewFolder - Copy %285%29\**" />
+    <Compile Remove="NewFolder - Copy %286%29\**" />
+    <Compile Remove="NewFolder - Copy %287%29\**" />
+    <Compile Remove="NewFolder - Copy %288%29\**" />
+    <Compile Remove="NewFolder - Copy %289%29\**" />
+    <Compile Remove="NewFolder - Copy\**" />
+    <EmbeddedResource Remove="Applications\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %2810%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %2811%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %282%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %283%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %284%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %285%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %286%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %287%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %288%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy %289%29\**" />
+    <EmbeddedResource Remove="NewFolder - Copy\**" />
+    <None Remove="Applications\**" />
+    <None Remove="NewFolder - Copy %2810%29\**" />
+    <None Remove="NewFolder - Copy %2811%29\**" />
+    <None Remove="NewFolder - Copy %282%29\**" />
+    <None Remove="NewFolder - Copy %283%29\**" />
+    <None Remove="NewFolder - Copy %284%29\**" />
+    <None Remove="NewFolder - Copy %285%29\**" />
+    <None Remove="NewFolder - Copy %286%29\**" />
+    <None Remove="NewFolder - Copy %287%29\**" />
+    <None Remove="NewFolder - Copy %288%29\**" />
+    <None Remove="NewFolder - Copy %289%29\**" />
+    <None Remove="NewFolder - Copy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Launcher.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\Views\" />
+  </ItemGroup>
+
+</Project>

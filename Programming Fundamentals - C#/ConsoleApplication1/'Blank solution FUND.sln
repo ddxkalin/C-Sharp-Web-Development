@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centuries to minutes", "ConsoleApplication1\Centuries to minutes.csproj", "{3ABDAA2C-41AC-457E-B86E-9DBE1AF248D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2", "2\2.csproj", "{8C525915-CCEF-4DCD-B87B-F7C2FF2C68C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABDAA2C-41AC-457E-B86E-9DBE1AF248D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABDAA2C-41AC-457E-B86E-9DBE1AF248D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABDAA2C-41AC-457E-B86E-9DBE1AF248D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABDAA2C-41AC-457E-B86E-9DBE1AF248D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C525915-CCEF-4DCD-B87B-F7C2FF2C68C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C525915-CCEF-4DCD-B87B-F7C2FF2C68C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C525915-CCEF-4DCD-B87B-F7C2FF2C68C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C525915-CCEF-4DCD-B87B-F7C2FF2C68C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

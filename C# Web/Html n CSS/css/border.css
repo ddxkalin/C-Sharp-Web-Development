@@ -1,0 +1,29 @@
+p {
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#red {
+    border: 1px solid red;
+}
+
+#blue {
+    border: 1px solid blue;
+}
+
+#green {
+    border: 1px solid green;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}

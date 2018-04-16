@@ -1,0 +1,20 @@
+div {
+    border-radius: 10px;
+    padding: 30px;
+}
+
+#outside {
+    margin: 15px;
+    border: 5px dotted blue;
+}
+
+#middle {
+    border: 2px dashed red;
+}
+
+#inner {
+    border: 2px solid green;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 110px;
+}
